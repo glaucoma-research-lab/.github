@@ -74,12 +74,10 @@ This repository documents the methodology and supports the reproducibility of th
 
 *Please note: Raw datasets are not included due to licensing constraints.*
 
----
 
-*Please note: This repository is provided for academic review purposes only.*
+## All Rights Reserved.
+## Copyright (c) 2026 Abdul Rauf, Meesam Abbas
 
-Use, reproduction, modification, or redistribution of any part
-of this repository is strictly prohibited without explicit
-written permission from the author.
-
-Contact: abbas4501459@cloud.neduet.edu.pk, rauf4530115@cloud.neduet.edu.pk 
+This source code and associated materials are the exclusive property of the authors.
+No part of this repository may be used, copied, modified, merged, published, distributed,
+sublicensed, or sold without explicit written permission from the authors.
