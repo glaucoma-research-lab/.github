@@ -40,7 +40,7 @@ Segmentation networks are trained using pseudo-labels as weak supervision:
 * **Architecture:** U-Net–based variants with ImageNet-pretrained encoders.
 * **Hybrid Loss:** Designed to address class imbalance, boundary uncertainty, and label noise.
 
-![Framework Overview](assets/proposed_weakly_supervised_visio.jpeg)
+![Framework Overview](proposed_weakly_supervised_visio.jpeg)
 
 *Figure: Pipeline diagram (Input → Pseudo-labels → Segmentation → vCDR).*
 
@@ -56,7 +56,7 @@ Pixel-level predictions are directly converted into **Vertical Cup-to-Disc Ratio
 | **EyePACS** | Primary | - | Pseudo-labels (Weak) |
 | **REFUGE2** | - | External Validation | Expert Masks (Ground Truth) |
 
-![Fundus Examples](assets/rg_vs_nrg_samples.jpg)
+![Fundus Examples](rg_vs_nrg_samples.jpg)
 
 ---
 
@@ -82,4 +82,4 @@ Use, reproduction, modification, or redistribution of any part
 of this repository is strictly prohibited without explicit
 written permission from the author.
 
-Contact: meeesam297@gmail.com
+Contact: abbas4501459@cloud.neduet.edu.pk, rauf4530115@cloud.neduet.edu.pk 
